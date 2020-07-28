@@ -5,16 +5,13 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:lzty634158/pxt-neopixel",
-        "Mbit_IR":  "github:lzty634158/yahboom_mbit_IR"
-	
-
+        "neopixel": "github:yannickgillet/pxt-neopixel",
+        "Mbit_IR": "github:yannickgillet/yahboom_mbit_IR"
     },
     "files": [
         "README.md",
         "main.ts",
         "_locales/en/mbit-strings.json"
-
     ],
     "testFiles": [
         "test.ts"
